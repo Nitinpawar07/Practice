@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Stack {
 
-    int stack[] =new int[3];
+    int stack[] =new int[10];
     int top =-1;
 
     boolean isEmpty(){
